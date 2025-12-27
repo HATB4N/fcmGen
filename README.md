@@ -25,7 +25,14 @@ APP_DETAILS = {
 
 ## Usage
 ```sh
+# test
 python3 main.py
+```
+
+```python3
+# import
+from fcm_token import fcm_reg
+fcm = fcm_reg.getFcm()
 ```
 
 ```example resp
