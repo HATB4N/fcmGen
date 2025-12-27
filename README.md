@@ -28,5 +28,12 @@ APP_DETAILS = {
 python3 main.py
 ```
 
+```example resp
+[*] Sending FCM Registration Request...
+[*] FCM STATUS CODE: 200
+[+] Successfully issued FCM token
+[*] fcm_token: eH...
+```
+
 ## License
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
